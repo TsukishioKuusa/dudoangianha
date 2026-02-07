@@ -1,2 +1,4 @@
 # dudoangianha
 MachineLearning
+
+This project applies a **Linear Regression** machine learning model to estimate and predict housing prices in Vietnam based on key socioeconomic and property-related features. The dataset includes variables such as location, house area, number of rooms, frontage width, and legal status, which are commonly used in the Vietnamese real estate market. Data preprocessing steps include handling missing values, feature scaling, and encoding categorical variables to ensure model accuracy. The Linear Regression model is trained to learn the relationship between these features and housing prices, enabling both price estimation for existing properties and prediction for new listings. Model performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared (R²), providing insight into prediction accuracy and overall model reliability.
